@@ -63,7 +63,7 @@ Tahapan data cleansing yang dilakukan meliputi:
 2. Koneksi Google Colab dengan Google Drive.
 3. Membaca dataset Excel.
 4. Eksplorasi dataset.
-5. Pengecekan missing value.
+5. Pengecekan missing value (Data Enrichment)
 6. Pengecekan data duplikat.
 7. Membersihkan data teks.
 8. Menstandarkan provinsi.
