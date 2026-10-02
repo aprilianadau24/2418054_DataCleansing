@@ -1,5 +1,4 @@
-# Data Cleansing Dataset Anak Putus Sekolah
-
+# Data Cleansing Dataset Anak Putus Sekolah Karena Ekonomi Di Indonesia
 ## Deskripsi
 
 Repository ini berisi proyek Data Cleansing yang dilakukan pada dataset anak putus sekolah karena ekonomi. Dataset awal merupakan dataset kotor yang memiliki beberapa permasalahan, seperti missing value, data duplikat, format tanggal yang tidak seragam, penulisan teks yang tidak konsisten, dan format angka yang perlu dikonversi.
